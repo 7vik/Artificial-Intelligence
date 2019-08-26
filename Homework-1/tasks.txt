@@ -1,0 +1,45 @@
+1. Read chapter 1 completely as a story of evolution of artificial intelligence.
+[60 min]
+
+2. Exercises 1.1, 1.2 and 1.7
+[10 min]
+
+3. Read Chapter 2 to understand the structure of intelligent agents.
+[70 min]
+
+4. Understand the table given in Figure 2.3 describing simple agent function for vacuum cleaner world.
+[0.5 min]
+
+5. Understand the PEAS description of five intelligent agents described in Fig. 2.5
+[2 min]
+
+7. Do these exercises 2.1, 2.2, 2.4 and 2.5
+[20 min] [important]
+
+8. Write the node structure for solving 8-puzzle problem for use with BFS.
+[10 min]
+
+9. How do you modify the structure defined in Q.1. for DFS?
+[10 min]
+
+10. Read Chapter 3 to understand BFS and DFS.
+[100 min]
+
+11. Understand the pseudo code given in figure 3.1.
+[15 min]
+
+12. Understand the search space for the vacuum cleaner world given in Figure 3.3. How would you formulate the states as a tuple of values? Write the successor function newstate(state s, action A) where state and action are the high level abstractions.
+[10 min]
+
+13. Define state space (all possible states) for the vacuum cleaner world and design transitions for a 4x4 floor. The actuator actions can be MR, ML, MU and MD respectively for movements in right, left, up, and down directions. The fifth action is 'Suck the dirt' (S) and the sixth action is 'Do nothing'. Assume the initial position of the vacuum clear as upper left corner. Randomly create the dirt on around 60% of the tiles. Draw the search tree and compute the minimum and maximum number of actions taken to clean the entire floor. (To be done by hand. No code required)
+[50 min]
+
+14.Understand the 8-queens problem and define all possible goal states. Generalize goal test and write its function.
+[20 min]
+
+15. Read uniform cost search and depth limited search techniques.
+[30 min]
+
+16. Do the exercises 3.2, 3.3, 3.6, 3.7, 3.8, 3.9 and 3.10.
+
+17. Write a program in python programming language to solve 8-puzzle problem using BFS. Compute the memory used in total till the goal is reached. How much time does it take?
